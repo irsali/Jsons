@@ -1,0 +1,17 @@
+{
+  "logins": [
+    {
+      "userEmail": "text2irshad@gmail.com",
+      "password": "test1",
+      "role": "member"
+    },
+    {
+      "userEmail": "text.irshad@gmail.com",
+      "password": "test@1",
+      "role": "admin"
+    }
+  ],
+  "entities": [],
+  "collections": [],
+  "expenses": []
+}

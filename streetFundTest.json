@@ -1,0 +1,70 @@
+{
+  "logins": [
+    {
+      "userEmail": "text2irshad@gmail.com",
+      "password": "test123",
+      "role": "member"
+    },
+    {
+      "userEmail": "text.irshad@gmail.com",
+      "password": "test@125",
+      "role": "admin"
+    }
+  ],
+  "entities": [
+    {
+      "id": 1,
+      "firstName": "Ajeet",
+      "middleName": null,
+      "lastName": "Kumar",
+      "phoneNo": "983478",
+      "email": "ajeet@ex.com",
+      "houseNo": "78342311"
+    },
+    {
+      "id": 2,
+      "firstName": "Amar",
+      "middleName": null,
+      "lastName": "Kumar",
+      "phoneNo": "84893",
+      "email": "amar@ex.com",
+      "houseNo": "4298"
+    },
+    {
+      "id": 3,
+      "firstName": "Anand",
+      "middleName": null,
+      "lastName": "Gupta",
+      "phoneNo": "89489",
+      "email": "anand@ex.com",
+      "houseNo": "84399"
+    },
+    {
+      "id": 4,
+      "firstName": "Ashok",
+      "middleName": null,
+      "lastName": "Kumar",
+      "phoneNo": "828489",
+      "email": "ashok@ex.com",
+      "houseNo": "894398"
+    },
+    {
+      "id": 6,
+      "firstName": "Irshad",
+      "middleName": null,
+      "lastName": "Ali",
+      "phoneNo": "8949889",
+      "email": "irshad@ex.com",
+      "houseNo": "6767"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "amount": "500",
+      "date": "2018-07-02T18:30:00.000Z",
+      "entityId": 2
+    }
+  ],
+  "expenses": []
+}
